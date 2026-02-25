@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:  SREEHARSHAN G         </h3>
-<h3>Register Number: 212224060257         </h3>
+<h3>Name:  PRAVEEN KUMAR G R         </h3>
+<h3>Register Number: 212224020042         </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
